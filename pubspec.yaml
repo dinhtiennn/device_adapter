@@ -1,0 +1,10 @@
+name: psdk_device_adapter
+description: psdk device adapter
+version: 0.1.4
+repository: https://github.com/prtmax/psdk-examples
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^5.1.1
+  test: ^1.28.0
